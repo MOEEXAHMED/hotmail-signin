@@ -9,7 +9,7 @@
     height: 200px;
     background: white;
     position: absolute;
-    margin-top: 65px;
+    margin-top: 80px;
 }
 
 .box{
@@ -28,6 +28,7 @@
     padding-left: 10px;
     margin-top: 60px;
     margin-left: 25px;
+    border: 2px solid gray;
 }
 
 #password{
@@ -37,6 +38,7 @@
     padding-left: 10px;
     margin-top: 12px;
     margin-left: 25px;
+    border: 2px solid gray;
 }
 
 #sign{
@@ -129,4 +131,12 @@ a:link{
 
 #end-line{
     margin-top: 50px;
+}
+
+#end{
+    font-size: 13px;
+    color: dimgray;
+    margin-top: -10px;
+    margin-left: 590px;
+    font-weight: bolder;
 }
