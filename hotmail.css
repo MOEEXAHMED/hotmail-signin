@@ -7,7 +7,7 @@
 .text{
     width: 100%;
     height: 200px;
-    background: yellowgreen;
+    background: greenyellow;
     position: absolute;
     margin-top: 65px;
 }
@@ -15,7 +15,7 @@
 .box{
     width: 500px;
     height: 200px;
-    background-color: papayawhip;
+    background-color: lightcoral;
     position: absolute;
     margin-top: 200px;
     margin-left: 360px;
@@ -75,6 +75,7 @@ a:link{
 
 .sign-in-bar{
     background:  #0072C6;
+    color: white;
     border: 1px solid white;
     width: 440px;
     height: 35px;
@@ -93,4 +94,19 @@ a:link{
     margin-left: 395px;
     font-size: 18px;
     text-align: center;
+}
+
+#no-account{
+    font-size: 18px;
+    margin-left: 530px;
+}
+
+#Create-one{
+    margin-top: -120;
+    margin-left: 5px;
+}
+
+#forget-password{
+    margin-top: 34px;
+    margin-left: 560px;
 }
